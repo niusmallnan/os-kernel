@@ -9,3 +9,4 @@ else
 fi
 
 rm -f $HOME/.bash_history
+
